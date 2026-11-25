@@ -1,0 +1,8 @@
+# Never commit the case data set or derived row-level files
+*.xlsx
+*.xls
+*.csv
+*.pkl
+*.parquet
+data/
+.DS_Store
